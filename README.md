@@ -6,3 +6,5 @@ Ejemplo de Juego
 #Incluye solucion de dudas.
 #Con ejemplos reales y trabajo en equipo (con ejemplos)
 #Para todo tipo de programador (movil, wev, etc).
+
+#Este commit no está completo :(
